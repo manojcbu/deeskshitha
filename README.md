@@ -2,14 +2,6 @@
 ## Python + Django + GCP
 ______________________________________________________________________________________
 
-* How to put this application online: https://github.com/luiswolski/Make_Your_Django_Deploy
-* For this will be used Nginx and Gunicorn.
-* With DNS it is possible to get HTTPS verification with certbot.
-* Dark and White theme.
-* How use Git: https://github.com/luiswolski/Using_git_on_the_server
-
-______________________________________________________________________________________
-
 ## Home Page
   In home page we have the posts, below them have the date of post and personalise comments numbers. On the top off this page are they search space and the posted categories.
 
