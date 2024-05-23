@@ -1,5 +1,5 @@
-# Blog_Project
-## Python + Django + GCP
+# CBU students Blog_Project
+## Python + Django 
 ______________________________________________________________________________________
 
 ## Home Page
